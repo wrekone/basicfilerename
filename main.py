@@ -1,4 +1,5 @@
 import os
+
 def main():
   i = 0
   path = "/Users/babbott/Development/python/renamer/test_files/"
@@ -11,3 +12,4 @@ def main():
 
 if __name__ == '__main__':
   main()
+  
